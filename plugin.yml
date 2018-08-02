@@ -1,0 +1,8 @@
+name: FloatingText
+main: ft\Loader
+load: POSTWORLD
+version: "1.0"
+api: 3.0.0
+authors:
+- David
+description: Add floating text
